@@ -1,0 +1,488 @@
+{
+  "sourcePdf": "/Users/chetanparmar/Developer/certification learn dumps/ai-900.pdf",
+  "slug": "ai-900",
+  "totalExtracted": 199,
+  "byPage": {
+    "1": [],
+    "2": [
+      "assets/exams/ai-900/pdf-page-2-img-0.png"
+    ],
+    "3": [
+      "assets/exams/ai-900/pdf-page-3-img-0.png",
+      "assets/exams/ai-900/pdf-page-3-img-1.png"
+    ],
+    "4": [
+      "assets/exams/ai-900/pdf-page-4-img-0.png"
+    ],
+    "5": [
+      "assets/exams/ai-900/pdf-page-5-img-0.png",
+      "assets/exams/ai-900/pdf-page-5-img-1.png"
+    ],
+    "6": [
+      "assets/exams/ai-900/pdf-page-6-img-0.png",
+      "assets/exams/ai-900/pdf-page-6-img-1.png"
+    ],
+    "7": [
+      "assets/exams/ai-900/pdf-page-7-img-0.png"
+    ],
+    "8": [
+      "assets/exams/ai-900/pdf-page-8-img-0.png"
+    ],
+    "9": [
+      "assets/exams/ai-900/pdf-page-9-img-0.png",
+      "assets/exams/ai-900/pdf-page-9-img-1.jpg"
+    ],
+    "10": [
+      "assets/exams/ai-900/pdf-page-10-img-0.png",
+      "assets/exams/ai-900/pdf-page-10-img-1.png"
+    ],
+    "11": [
+      "assets/exams/ai-900/pdf-page-11-img-0.png"
+    ],
+    "12": [
+      "assets/exams/ai-900/pdf-page-12-img-0.png"
+    ],
+    "13": [
+      "assets/exams/ai-900/pdf-page-13-img-0.png",
+      "assets/exams/ai-900/pdf-page-13-img-1.jpg"
+    ],
+    "14": [
+      "assets/exams/ai-900/pdf-page-14-img-0.png",
+      "assets/exams/ai-900/pdf-page-14-img-1.jpg"
+    ],
+    "15": [],
+    "16": [
+      "assets/exams/ai-900/pdf-page-16-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-16-img-1.jpg"
+    ],
+    "17": [
+      "assets/exams/ai-900/pdf-page-17-img-0.png"
+    ],
+    "18": [
+      "assets/exams/ai-900/pdf-page-18-img-0.png",
+      "assets/exams/ai-900/pdf-page-18-img-1.png"
+    ],
+    "19": [
+      "assets/exams/ai-900/pdf-page-19-img-0.png"
+    ],
+    "20": [
+      "assets/exams/ai-900/pdf-page-20-img-0.png",
+      "assets/exams/ai-900/pdf-page-20-img-1.png",
+      "assets/exams/ai-900/pdf-page-20-img-2.jpg"
+    ],
+    "21": [
+      "assets/exams/ai-900/pdf-page-21-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-21-img-1.jpg"
+    ],
+    "22": [
+      "assets/exams/ai-900/pdf-page-22-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-22-img-1.jpg"
+    ],
+    "23": [
+      "assets/exams/ai-900/pdf-page-23-img-0.png"
+    ],
+    "24": [
+      "assets/exams/ai-900/pdf-page-24-img-0.png",
+      "assets/exams/ai-900/pdf-page-24-img-1.jpg"
+    ],
+    "25": [
+      "assets/exams/ai-900/pdf-page-25-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-25-img-1.jpg"
+    ],
+    "26": [],
+    "27": [
+      "assets/exams/ai-900/pdf-page-27-img-0.png",
+      "assets/exams/ai-900/pdf-page-27-img-1.jpg"
+    ],
+    "28": [
+      "assets/exams/ai-900/pdf-page-28-img-0.png"
+    ],
+    "29": [
+      "assets/exams/ai-900/pdf-page-29-img-0.png",
+      "assets/exams/ai-900/pdf-page-29-img-1.jpg"
+    ],
+    "30": [],
+    "31": [],
+    "32": [
+      "assets/exams/ai-900/pdf-page-32-img-0.png",
+      "assets/exams/ai-900/pdf-page-32-img-1.jpg"
+    ],
+    "33": [
+      "assets/exams/ai-900/pdf-page-33-img-0.png"
+    ],
+    "34": [
+      "assets/exams/ai-900/pdf-page-34-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-34-img-1.png"
+    ],
+    "35": [
+      "assets/exams/ai-900/pdf-page-35-img-0.jpg"
+    ],
+    "36": [
+      "assets/exams/ai-900/pdf-page-36-img-0.png",
+      "assets/exams/ai-900/pdf-page-36-img-1.png"
+    ],
+    "37": [
+      "assets/exams/ai-900/pdf-page-37-img-0.png"
+    ],
+    "38": [
+      "assets/exams/ai-900/pdf-page-38-img-0.png",
+      "assets/exams/ai-900/pdf-page-38-img-1.png"
+    ],
+    "39": [
+      "assets/exams/ai-900/pdf-page-39-img-0.jpg"
+    ],
+    "40": [
+      "assets/exams/ai-900/pdf-page-40-img-0.png"
+    ],
+    "41": [
+      "assets/exams/ai-900/pdf-page-41-img-0.jpg"
+    ],
+    "42": [
+      "assets/exams/ai-900/pdf-page-42-img-0.png",
+      "assets/exams/ai-900/pdf-page-42-img-1.png"
+    ],
+    "43": [
+      "assets/exams/ai-900/pdf-page-43-img-0.jpg"
+    ],
+    "44": [
+      "assets/exams/ai-900/pdf-page-44-img-0.png",
+      "assets/exams/ai-900/pdf-page-44-img-1.jpg"
+    ],
+    "45": [
+      "assets/exams/ai-900/pdf-page-45-img-0.png",
+      "assets/exams/ai-900/pdf-page-45-img-1.jpg"
+    ],
+    "46": [],
+    "47": [
+      "assets/exams/ai-900/pdf-page-47-img-0.png"
+    ],
+    "48": [
+      "assets/exams/ai-900/pdf-page-48-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-48-img-1.jpg"
+    ],
+    "49": [
+      "assets/exams/ai-900/pdf-page-49-img-0.jpg"
+    ],
+    "50": [
+      "assets/exams/ai-900/pdf-page-50-img-0.jpg"
+    ],
+    "51": [
+      "assets/exams/ai-900/pdf-page-51-img-0.png",
+      "assets/exams/ai-900/pdf-page-51-img-1.png"
+    ],
+    "52": [
+      "assets/exams/ai-900/pdf-page-52-img-0.png"
+    ],
+    "53": [
+      "assets/exams/ai-900/pdf-page-53-img-0.png"
+    ],
+    "54": [
+      "assets/exams/ai-900/pdf-page-54-img-0.jpg"
+    ],
+    "55": [
+      "assets/exams/ai-900/pdf-page-55-img-0.png",
+      "assets/exams/ai-900/pdf-page-55-img-1.png"
+    ],
+    "56": [],
+    "57": [
+      "assets/exams/ai-900/pdf-page-57-img-0.png",
+      "assets/exams/ai-900/pdf-page-57-img-1.jpg"
+    ],
+    "58": [
+      "assets/exams/ai-900/pdf-page-58-img-0.png"
+    ],
+    "59": [
+      "assets/exams/ai-900/pdf-page-59-img-0.png",
+      "assets/exams/ai-900/pdf-page-59-img-1.png",
+      "assets/exams/ai-900/pdf-page-59-img-2.png"
+    ],
+    "60": [
+      "assets/exams/ai-900/pdf-page-60-img-0.png",
+      "assets/exams/ai-900/pdf-page-60-img-1.png",
+      "assets/exams/ai-900/pdf-page-60-img-2.png",
+      "assets/exams/ai-900/pdf-page-60-img-3.png"
+    ],
+    "61": [
+      "assets/exams/ai-900/pdf-page-61-img-0.png",
+      "assets/exams/ai-900/pdf-page-61-img-1.png"
+    ],
+    "62": [
+      "assets/exams/ai-900/pdf-page-62-img-0.png",
+      "assets/exams/ai-900/pdf-page-62-img-1.png"
+    ],
+    "63": [
+      "assets/exams/ai-900/pdf-page-63-img-0.jpg"
+    ],
+    "64": [],
+    "65": [
+      "assets/exams/ai-900/pdf-page-65-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-65-img-1.png"
+    ],
+    "66": [],
+    "67": [
+      "assets/exams/ai-900/pdf-page-67-img-0.png",
+      "assets/exams/ai-900/pdf-page-67-img-1.png"
+    ],
+    "68": [
+      "assets/exams/ai-900/pdf-page-68-img-0.png",
+      "assets/exams/ai-900/pdf-page-68-img-1.jpg"
+    ],
+    "69": [
+      "assets/exams/ai-900/pdf-page-69-img-0.png"
+    ],
+    "70": [
+      "assets/exams/ai-900/pdf-page-70-img-0.jpg"
+    ],
+    "71": [],
+    "72": [
+      "assets/exams/ai-900/pdf-page-72-img-0.png",
+      "assets/exams/ai-900/pdf-page-72-img-1.jpg",
+      "assets/exams/ai-900/pdf-page-72-img-2.png"
+    ],
+    "73": [
+      "assets/exams/ai-900/pdf-page-73-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-73-img-1.png",
+      "assets/exams/ai-900/pdf-page-73-img-2.jpg"
+    ],
+    "74": [
+      "assets/exams/ai-900/pdf-page-74-img-0.png",
+      "assets/exams/ai-900/pdf-page-74-img-1.png"
+    ],
+    "75": [
+      "assets/exams/ai-900/pdf-page-75-img-0.jpg"
+    ],
+    "76": [],
+    "77": [
+      "assets/exams/ai-900/pdf-page-77-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-77-img-1.jpg"
+    ],
+    "78": [],
+    "79": [
+      "assets/exams/ai-900/pdf-page-79-img-0.png"
+    ],
+    "80": [
+      "assets/exams/ai-900/pdf-page-80-img-0.jpg"
+    ],
+    "81": [
+      "assets/exams/ai-900/pdf-page-81-img-0.png",
+      "assets/exams/ai-900/pdf-page-81-img-1.jpg"
+    ],
+    "82": [
+      "assets/exams/ai-900/pdf-page-82-img-0.png",
+      "assets/exams/ai-900/pdf-page-82-img-1.png"
+    ],
+    "83": [
+      "assets/exams/ai-900/pdf-page-83-img-0.png"
+    ],
+    "84": [
+      "assets/exams/ai-900/pdf-page-84-img-0.png"
+    ],
+    "85": [
+      "assets/exams/ai-900/pdf-page-85-img-0.png",
+      "assets/exams/ai-900/pdf-page-85-img-1.png"
+    ],
+    "86": [],
+    "87": [
+      "assets/exams/ai-900/pdf-page-87-img-0.png",
+      "assets/exams/ai-900/pdf-page-87-img-1.png"
+    ],
+    "88": [
+      "assets/exams/ai-900/pdf-page-88-img-0.png"
+    ],
+    "89": [
+      "assets/exams/ai-900/pdf-page-89-img-0.png"
+    ],
+    "90": [
+      "assets/exams/ai-900/pdf-page-90-img-0.png"
+    ],
+    "91": [
+      "assets/exams/ai-900/pdf-page-91-img-0.png"
+    ],
+    "92": [
+      "assets/exams/ai-900/pdf-page-92-img-0.jpg"
+    ],
+    "93": [],
+    "94": [],
+    "95": [
+      "assets/exams/ai-900/pdf-page-95-img-0.png"
+    ],
+    "96": [
+      "assets/exams/ai-900/pdf-page-96-img-0.png"
+    ],
+    "97": [
+      "assets/exams/ai-900/pdf-page-97-img-0.png"
+    ],
+    "98": [
+      "assets/exams/ai-900/pdf-page-98-img-0.png",
+      "assets/exams/ai-900/pdf-page-98-img-1.jpg",
+      "assets/exams/ai-900/pdf-page-98-img-2.jpg"
+    ],
+    "99": [],
+    "100": [
+      "assets/exams/ai-900/pdf-page-100-img-0.png",
+      "assets/exams/ai-900/pdf-page-100-img-1.jpg",
+      "assets/exams/ai-900/pdf-page-100-img-2.jpg"
+    ],
+    "101": [
+      "assets/exams/ai-900/pdf-page-101-img-0.jpg"
+    ],
+    "102": [
+      "assets/exams/ai-900/pdf-page-102-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-102-img-1.jpg"
+    ],
+    "103": [
+      "assets/exams/ai-900/pdf-page-103-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-103-img-1.jpg"
+    ],
+    "104": [],
+    "105": [],
+    "106": [
+      "assets/exams/ai-900/pdf-page-106-img-0.png"
+    ],
+    "107": [
+      "assets/exams/ai-900/pdf-page-107-img-0.jpg"
+    ],
+    "108": [
+      "assets/exams/ai-900/pdf-page-108-img-0.png",
+      "assets/exams/ai-900/pdf-page-108-img-1.jpg"
+    ],
+    "109": [],
+    "110": [],
+    "111": [
+      "assets/exams/ai-900/pdf-page-111-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-111-img-1.jpg"
+    ],
+    "112": [
+      "assets/exams/ai-900/pdf-page-112-img-0.png",
+      "assets/exams/ai-900/pdf-page-112-img-1.png"
+    ],
+    "113": [],
+    "114": [],
+    "115": [
+      "assets/exams/ai-900/pdf-page-115-img-0.png",
+      "assets/exams/ai-900/pdf-page-115-img-1.png"
+    ],
+    "116": [],
+    "117": [
+      "assets/exams/ai-900/pdf-page-117-img-0.png",
+      "assets/exams/ai-900/pdf-page-117-img-1.png"
+    ],
+    "118": [
+      "assets/exams/ai-900/pdf-page-118-img-0.png"
+    ],
+    "119": [
+      "assets/exams/ai-900/pdf-page-119-img-0.png"
+    ],
+    "120": [
+      "assets/exams/ai-900/pdf-page-120-img-0.png",
+      "assets/exams/ai-900/pdf-page-120-img-1.jpg"
+    ],
+    "121": [],
+    "122": [
+      "assets/exams/ai-900/pdf-page-122-img-0.png"
+    ],
+    "123": [
+      "assets/exams/ai-900/pdf-page-123-img-0.png",
+      "assets/exams/ai-900/pdf-page-123-img-1.png"
+    ],
+    "124": [],
+    "125": [],
+    "126": [],
+    "127": [
+      "assets/exams/ai-900/pdf-page-127-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-127-img-1.jpg"
+    ],
+    "128": [
+      "assets/exams/ai-900/pdf-page-128-img-0.png"
+    ],
+    "129": [
+      "assets/exams/ai-900/pdf-page-129-img-0.png"
+    ],
+    "130": [],
+    "131": [
+      "assets/exams/ai-900/pdf-page-131-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-131-img-1.jpg"
+    ],
+    "132": [],
+    "133": [
+      "assets/exams/ai-900/pdf-page-133-img-0.png",
+      "assets/exams/ai-900/pdf-page-133-img-1.png"
+    ],
+    "134": [
+      "assets/exams/ai-900/pdf-page-134-img-0.jpg"
+    ],
+    "135": [
+      "assets/exams/ai-900/pdf-page-135-img-0.jpg"
+    ],
+    "136": [
+      "assets/exams/ai-900/pdf-page-136-img-0.png",
+      "assets/exams/ai-900/pdf-page-136-img-1.jpg"
+    ],
+    "137": [
+      "assets/exams/ai-900/pdf-page-137-img-0.png",
+      "assets/exams/ai-900/pdf-page-137-img-1.jpg"
+    ],
+    "138": [],
+    "139": [
+      "assets/exams/ai-900/pdf-page-139-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-139-img-1.jpg"
+    ],
+    "140": [],
+    "141": [
+      "assets/exams/ai-900/pdf-page-141-img-0.png"
+    ],
+    "142": [
+      "assets/exams/ai-900/pdf-page-142-img-0.png"
+    ],
+    "143": [],
+    "144": [
+      "assets/exams/ai-900/pdf-page-144-img-0.png"
+    ],
+    "145": [],
+    "146": [
+      "assets/exams/ai-900/pdf-page-146-img-0.png",
+      "assets/exams/ai-900/pdf-page-146-img-1.jpg"
+    ],
+    "147": [
+      "assets/exams/ai-900/pdf-page-147-img-0.png"
+    ],
+    "148": [
+      "assets/exams/ai-900/pdf-page-148-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-148-img-1.png"
+    ],
+    "149": [
+      "assets/exams/ai-900/pdf-page-149-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-149-img-1.png"
+    ],
+    "150": [
+      "assets/exams/ai-900/pdf-page-150-img-0.jpg"
+    ],
+    "151": [
+      "assets/exams/ai-900/pdf-page-151-img-0.png",
+      "assets/exams/ai-900/pdf-page-151-img-1.png"
+    ],
+    "152": [
+      "assets/exams/ai-900/pdf-page-152-img-0.png"
+    ],
+    "153": [
+      "assets/exams/ai-900/pdf-page-153-img-0.png"
+    ],
+    "154": [
+      "assets/exams/ai-900/pdf-page-154-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-154-img-1.jpg"
+    ],
+    "155": [
+      "assets/exams/ai-900/pdf-page-155-img-0.png",
+      "assets/exams/ai-900/pdf-page-155-img-1.jpg"
+    ],
+    "156": [
+      "assets/exams/ai-900/pdf-page-156-img-0.jpg",
+      "assets/exams/ai-900/pdf-page-156-img-1.jpg"
+    ],
+    "157": [
+      "assets/exams/ai-900/pdf-page-157-img-0.png",
+      "assets/exams/ai-900/pdf-page-157-img-1.jpg"
+    ],
+    "158": []
+  }
+}

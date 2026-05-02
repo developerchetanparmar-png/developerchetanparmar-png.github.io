@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="theme-color" content="#5c3ce6">
+  <title>Exam · CertCircuit</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="shell header-inner header-inner-split">
+      <a class="logo logo-with-mark" href="index.html">
+        <span class="logo-mark" aria-hidden="true">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" role="presentation">
+            <rect x="4" y="6" width="22" height="26" rx="4" stroke="currentColor" stroke-width="2" opacity="0.22"/>
+            <rect x="8" y="9" width="22" height="26" rx="4" stroke="url(#exam-lm)" stroke-width="2" fill="rgba(92,60,230,0.08)"/>
+            <path d="M14 18h10M14 23h7" stroke="url(#exam-lm)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+            <circle cx="26" cy="11" r="7" fill="url(#exam-lm2)"/>
+            <path d="M23.5 11.2l1.6 1.6 3.4-3.4" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <defs>
+              <linearGradient id="exam-lm" x1="8" y1="9" x2="30" y2="35" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6"/><stop offset="1" stop-color="#7c55f0"/>
+              </linearGradient>
+              <linearGradient id="exam-lm2" x1="19" y1="4" x2="33" y2="18" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6"/><stop offset="1" stop-color="#e0783a"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </span>
+        CertCircuit
+      </a>
+      <nav class="header-nav" aria-label="Exam navigation">
+        <a class="btn btn-outline btn-sm" href="index.html">&larr; All exams</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="main-exam">
+    <div class="shell shell-narrow">
+      <div id="exam-loading" class="state-banner">Preparing questions…</div>
+      <p id="exam-error" class="msg-error" hidden></p>
+
+      <div id="exam-content" hidden>
+        <div class="exam-banner-art" aria-hidden="true">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 72" fill="none" role="presentation">
+            <path d="M8 54c18-36 62-54 118-42 38 9 62 34 74 54" stroke="url(#exam-band)" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+            <rect x="24" y="18" width="72" height="44" rx="8" fill="#fff" stroke="url(#exam-band)" stroke-width="2"/>
+            <path d="M38 38h44M38 49h28" stroke="rgba(27,21,51,0.15)" stroke-width="3" stroke-linecap="round"/>
+            <circle cx="152" cy="36" r="18" fill="url(#exam-dot)"/>
+            <path d="M142 37l7 7 13-13" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <defs>
+              <linearGradient id="exam-band" x1="8" y1="18" x2="190" y2="54" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6" stop-opacity="0.5"/><stop offset="1" stop-color="#e0783a" stop-opacity="0.45"/>
+              </linearGradient>
+              <linearGradient id="exam-dot" x1="134" y1="18" x2="170" y2="54" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6"/><stop offset="1" stop-color="#7c55f0"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <header class="exam-head">
+          <p class="eyebrow" id="exam-code"></p>
+          <h1 id="exam-title"></h1>
+          <p class="exam-stats" id="exam-stats"></p>
+        </header>
+
+        <div id="questions-root"></div>
+
+        <!--
+          Optional AdSense banner between questions footer (paste after Adsense approval):
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script>
+          <div class="ads-slot">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXX" data-ad-slot="YYYYYYYYYY" data-ad-format="horizontal"></ins>
+          </div>
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        -->
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer site-footer-simple">
+    <div class="shell footer-meta footer-meta-row">
+      <p>&copy; <span id="year"></span> CertCircuit</p>
+      <nav class="footer-legal" aria-label="Legal">
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="js/exam.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "CertCircuit — Certification practice tests",
+  "short_name": "CertCircuit",
+  "description": "Free practice questions for Azure, AWS, and Microsoft certification exams.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f6ff",
+  "theme_color": "#5c3ce6",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
