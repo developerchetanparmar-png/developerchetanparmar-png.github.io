@@ -183,7 +183,7 @@
 
       if (errorEl) errorEl.hidden = true;
       if (contentEl) contentEl.hidden = false;
-      document.title = (payload.title || examSlug) + " · CertCircuit";
+      document.title = (payload.title || examSlug) + " · CertMock";
       return;
     }
 
@@ -225,7 +225,7 @@
         }
       });
     });
-    document.title = (payload.title || examSlug) + " · CertCircuit";
+    document.title = (payload.title || examSlug) + " · CertMock";
   }
 
   /** Static pages: embed full exam JSON inside the HTML (works with file://, no fetch). */

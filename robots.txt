@@ -1,6 +1,6 @@
-# CertCircuit — allow indexing of public practice pages
+# CertMock — allow indexing of public practice pages
 User-agent: *
 Allow: /
 
 # Sitemap (update domain if you use a custom host)
-Sitemap: https://certcircuit.com/sitemap.xml
+Sitemap: https://certmock.com/sitemap.xml

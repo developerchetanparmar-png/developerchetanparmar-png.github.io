@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#5c3ce6">
+  <meta name="description" content="About CertMock: free unofficial certification practice for Azure, AWS, and Microsoft exams — purpose, scope, and independence from exam vendors.">
+  <link rel="canonical" href="https://certmock.com/about.html">
+  <title>About · CertMock</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="CertMock">
+  <meta property="og:url" content="https://certmock.com/about.html">
+  <meta property="og:title" content="About · CertMock">
+  <meta property="og:description" content="What CertMock is: free practice tests for cloud and Microsoft certifications, with clear disclaimers.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="About · CertMock">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="shell header-inner header-inner-split">
+      <a class="logo logo-with-mark" href="index.html">
+        <span class="logo-mark" aria-hidden="true">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" role="presentation">
+            <rect x="4" y="6" width="22" height="26" rx="4" stroke="currentColor" stroke-width="2" opacity="0.22"/>
+            <rect x="8" y="9" width="22" height="26" rx="4" stroke="url(#ab-lm)" stroke-width="2" fill="rgba(92,60,230,0.08)"/>
+            <path d="M14 18h10M14 23h7" stroke="url(#ab-lm)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+            <circle cx="26" cy="11" r="7" fill="url(#ab-lm2)"/>
+            <path d="M23.5 11.2l1.6 1.6 3.4-3.4" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <defs>
+              <linearGradient id="ab-lm" x1="8" y1="9" x2="30" y2="35" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6"/><stop offset="1" stop-color="#7c55f0"/>
+              </linearGradient>
+              <linearGradient id="ab-lm2" x1="19" y1="4" x2="33" y2="18" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#5c3ce6"/><stop offset="1" stop-color="#e0783a"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </span>
+        CertMock
+      </a>
+      <nav class="header-nav" aria-label="Site pages">
+        <a class="btn btn-outline btn-sm" href="index.html">&larr; Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="main-legal">
+    <div class="shell shell-narrow legal-prose">
+      <h1>About CertMock</h1>
+      <p class="legal-meta">Last updated: May 1, 2026</p>
+
+      <h2>What we do</h2>
+      <p>
+        CertMock publishes <strong>free, browser-based practice</strong> for professional certification exams (for example Microsoft Azure, Microsoft Fabric, and AWS Cloud Practitioner). Each exam has its own page with searchable questions, optional answer reveal, and explanations where available. The goal is to help learners study efficiently and test their knowledge before sitting an official exam.
+      </p>
+
+      <h2>Independence &amp; trademarks</h2>
+      <p>
+        CertMock is <strong>not affiliated with, endorsed by, or sponsored by</strong> Microsoft, Amazon Web Services, or other certification vendors. Exam names and codes (such as AZ-900 or CLF-C02) are trademarks of their respective owners and are used here only to identify which skills the practice material targets. See our <a href="terms.html">Terms of Use</a> for the full disclaimer.
+      </p>
+
+      <h2>How content is built</h2>
+      <p>
+        Questions and explanations are compiled for <strong>educational practice</strong>. Wording may differ from any specific vendor exam delivery. We do not claim to reproduce proprietary exam items; material is meant as study support, not as a substitute for official curriculum or hands-on experience.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        For feedback, corrections, or privacy questions, use the options on our <a href="contact.html">Contact</a> page.
+      </p>
+
+      <p class="legal-back"><a href="index.html">Back to home</a> · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+    </div>
+  </main>
+
+  <footer class="site-footer site-footer-simple">
+    <div class="shell footer-meta footer-meta-row">
+      <p>&copy; <span id="year"></span> CertMock</p>
+      <nav class="footer-legal" aria-label="Site">
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = String(new Date().getFullYear());
+  </script>
+</body>
+</html>

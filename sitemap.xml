@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://certcircuit.com/</loc>
+    <loc>https://certmock.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/exam-clf-c02.html</loc>
+    <loc>https://certmock.com/exam-clf-c02.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/exam-ai-900.html</loc>
+    <loc>https://certmock.com/exam-ai-900.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/exam-az-900.html</loc>
+    <loc>https://certmock.com/exam-az-900.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/exam-dp-700.html</loc>
+    <loc>https://certmock.com/exam-dp-700.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/privacy.html</loc>
+    <loc>https://certmock.com/about.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://certmock.com/contact.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://certmock.com/privacy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://certcircuit.com/terms.html</loc>
+    <loc>https://certmock.com/terms.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

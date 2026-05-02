@@ -1,6 +1,6 @@
 {
-  "name": "CertCircuit — Certification practice tests",
-  "short_name": "CertCircuit",
+  "name": "CertMock — Certification practice tests",
+  "short_name": "CertMock",
   "description": "Free practice questions for Azure, AWS, and Microsoft certification exams.",
   "start_url": "./index.html",
   "display": "standalone",

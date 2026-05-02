@@ -1,4 +1,4 @@
-/* CertCircuit — homepage + exam questions */
+/* CertMock — homepage + exam questions */
 :root {
   --bg: #f7f6fb;
   --surface: #ffffff;
@@ -101,6 +101,17 @@ a {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+a.header-nav-link {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: rgba(27, 21, 51, 0.55);
+  text-decoration: none;
+}
+
+a.header-nav-link:hover {
+  color: var(--accent);
 }
 
 .logo {
