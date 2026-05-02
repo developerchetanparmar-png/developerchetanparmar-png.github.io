@@ -1,0 +1,40 @@
+# Optional: mirror this site to github.com/<you>/<you>.github.io so
+# https://<you>.github.io/ works (not /<repo>/ path).
+#
+# Requires secret USER_SITE_PUBLISH_TOKEN with push access to the .github.io repo.
+
+name: Deploy user.github.io root
+
+on:
+  workflow_dispatch:
+  # Uncomment after secret is configured:
+  # push:
+  #   branches: [main, master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-user-pages-root
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage (exclude CI metadata from published site)
+        run: |
+          mkdir -p _staging
+          rsync -a --exclude='.git' --exclude='.github' --exclude='_staging' ./ _staging/
+
+      - name: Publish → developerchetanparmar-png.github.io
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _staging
+          branch: main
+          repository-name: developerchetanparmar-png/developerchetanparmar-png.github.io
+          token: ${{ secrets.USER_SITE_PUBLISH_TOKEN }}
+          commit-message: "Deploy from CertMock site repo"
+          single-commit: false
